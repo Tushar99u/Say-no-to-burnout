@@ -420,20 +420,6 @@ Despite the robustness and cosistency of the FER based system in detection the b
 ## 📌 **16. Thesis and Presentation Slides**
 The thesis slides is readily available in the following directory `docs/Thesis_Presentation_Slides.pdf`. In contrast, the finalized thesis paper is not available for public view due to academical and security issues. However, in cases where the thesis paper is crucial for research or annotations, please contact via GitHub or Email.
 
-## 👤 **17. Author and Credentials**
-This project is fully established and contributed by the following author and co-authors:
-- **Name:** Rizky Johan Saputra
-- **Thesis Advisor:** Prof. Chang-Gun Lee
-- **Thesis Title:** The Application of Facial Emotion Recognition (FER) in the Detection and Measurement of Burnout and Prolonged Stress Levels
-- **Department:** Computer Science and Engineering
-- **Affiliation:** Undergraduate at Seoul National University (Enrolled at 2021, Graduated in 2026)
-- **Role:** Thesis Researcher, Project Developer, Manager and Author 
-- **Project Scope:** Computer Vision, Machine Learning, Deep Learning, Computer Architecture and Real-Time Systems.
-
-## 📜 **18. License**
-This repository is distributed under a Personal License tailored by the author and its affiliated instituion. See LICENSE for the full terms. For further inquiries and requests, please contact via GitHub or Email only.
-> If you intend to reuse significant portions for research and academia purposes, please open and inquire an issue to discuss attribution and terms.
-
 ---
 
 # <p align="center"><b>🎚️ Burnout emerges not in moments but rather in patterns. ⏱️ </b></p>
