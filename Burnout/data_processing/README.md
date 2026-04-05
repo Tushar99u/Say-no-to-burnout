@@ -45,9 +45,7 @@ It combines computer vision (MTCNN, OpenCV), deep learning (Keras/TensorFlow), a
   Helper functions for data formatting, visualization, etc.
 
 - **`fer2013_model.h5`**  
-  Pretrained **Facial Emotion Recognition CNN** (based on FER2013 dataset).  
-  Downloaded from [Hugging Face: `shivamprasad1001/Emo0.1`](https://huggingface.co/shivamprasad1001/Emo0.1).  
-  Originally named `Emo0.1.h5`, renamed in this project for compatibility.
+  Pretrained **Facial Emotion Recognition CNN** (based on FER2013 dataset).
 
 ---
 
